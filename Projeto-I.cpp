@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
-
+//Alteração Adicionada
 const char* ssid     = "PROF.RAFAEL";
 const char* password = "";
 IPAddress ip(192,168,1,123); 
